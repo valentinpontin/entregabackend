@@ -1,0 +1,39 @@
+[
+	{
+		"id": "tmTlyURXZ",
+		"title": "Bulbium Rose",
+		"description": "Bulbium Rose",
+		"code": "BBR",
+		"price": 450,
+		"status": true,
+		"stock": 20,
+		"category": "Bulbos",
+		"thumbnails": []
+	},
+	{
+		"id": "KrUeP_38w",
+		"title": "Bulbium Red",
+		"description": "Bulbium Red",
+		"code": "BBR2",
+		"price": 450,
+		"status": true,
+		"stock": 20,
+		"category": "Gramínea",
+		"thumbnails": []
+	},
+	{
+		"id": "mR5FYc9Ek",
+		"title": "Indranium Baby",
+		"description": "Indranium Baby",
+		"code": "IBB",
+		"price": 4500,
+		"status": true,
+		"stock": 50,
+		"category": "Gramínea",
+		"thumbnails": [
+			"2",
+			"3",
+			"4"
+		]
+	}
+]
